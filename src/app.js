@@ -46,7 +46,8 @@ window.onload = function() {
     "in a parallel universe",
     "in the future",
     "during a solar eclipse",
-    "at midnight"
+    "at midnight",
+    "during Pilates class"
   ];
 
   // selects a random value of an array
